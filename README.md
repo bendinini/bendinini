@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif" width="100"/>
 </div>
 <div id="badges"align="center">
-  <a href="www.linkedin.com/in/darya-arestova-16434b234">
+  <a href="www.linkedin.com/in/darya-arestova">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/bendinini">
