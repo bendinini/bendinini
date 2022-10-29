@@ -11,6 +11,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=bendinini" alt=""/>
 <h1>
-  hey there
-  <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" />
+  Hello, I'm Didi!
+  
+  Contact dd.arestova@gmail.com
+  <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
